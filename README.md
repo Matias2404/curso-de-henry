@@ -1,2 +1,1 @@
-# curso-de-henry
-prueba de el curso
+este proyecto es una prueba de como crear el repositorio
